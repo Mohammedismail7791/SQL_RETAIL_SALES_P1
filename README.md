@@ -66,7 +66,7 @@ WHERE
     quantity IS NULL OR price_per_unit IS NULL OR cogs IS NULL;
 ```
 
-### 3. Data Analysis & Findings
+### 3. Data Exploration & Analysis
 
 The following SQL queries were developed to answer specific business questions:
 
